@@ -14,8 +14,8 @@ List of weather condition icons from [OpenWeatherMap](https://openweathermap.org
 
 
 | Day icon | Night icon  | Description |
-| :---: | :---: | ---: |
-| ![01d_t.png](https://rodrigokamada.github.io/openweathermap/images/01d_t.png)<br />`01d_t.png`<br />`01d_t@2x.png`<br />`01d_t@4x.png` | ![01n_t.png](https://rodrigokamada.github.io/openweathermap/images/01n_t.png)<br />`01n_t.png`<br />`01n_t@2x.png`<br />`01n_t@4x.png` | clear sky |
+| :---: | :---: | :--- |
+| ![01d_t.png](https://rodrigokamada.github.io/openweathermap/images/01d_t.png)<br />Background transparent: `01d_t.png`, `01d_t@2x.png` and `01d_t@4x.png`<br />Background white: `01d_w.png`, `01d_w@2x.png` and `01d_w@4x.png` | ![01n_t.png](https://rodrigokamada.github.io/openweathermap/images/01n_t.png)<br />Background transparent: `01n_t.png`, `01n_t@2x.png` and `01n_t@4x.png`<br />Background white: `01n_w.png`, `01n_w@2x.png` and `01n_w@4x.png` | clear sky |
 | ![02d_t.png](https://rodrigokamada.github.io/openweathermap/images/02d_t.png)<br />`02d_t.png`<br />`02d_t@2x.png`<br />`02d_t@4x.png` | ![02n_t.png](https://rodrigokamada.github.io/openweathermap/images/02n_t.png)<br />`02n_t.png`<br />`02n_t@2x.png`<br />`02n_t@4x.png` | few clouds |
 | ![03d_t.png](https://rodrigokamada.github.io/openweathermap/images/03d_t.png)<br />`03d_t.png`<br />`03d_t@2x.png`<br />`03d_t@4x.png` | ![03n_t.png](https://rodrigokamada.github.io/openweathermap/images/03n_t.png)<br />`03n_t.png`<br />`03n_t@2x.png`<br />`03n_t@4x.png` | scattered clouds |
 | ![04d_t.png](https://rodrigokamada.github.io/openweathermap/images/04d_t.png)<br />`04d_t.png`<br />`04d_t@2x.png`<br />`04d_t@4x.png` | ![04n_t.png](https://rodrigokamada.github.io/openweathermap/images/04n_t.png)<br />`04n_t.png`<br />`04n_t@2x.png`<br />`04n_t@4x.png` | broken clouds |
