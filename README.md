@@ -10,14 +10,15 @@ List of weather condition icons from [OpenWeatherMap](https://openweathermap.org
 
 
 
-## Icon list
-
-
-Use:
+## Usage
 
 `https://rodrigokamada.github.io/openweathermap/images/` + `filename.png`
 
-(e.g. `https://rodrigokamada.github.io/openweathermap/images/01d_t.png`)
+For example: `https://rodrigokamada.github.io/openweathermap/images/01d_t.png`
+
+
+
+## Icon list
 
 
 | Day icon | Night icon  | Description |
