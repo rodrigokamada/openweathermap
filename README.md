@@ -14,7 +14,9 @@ List of weather condition icons from [OpenWeatherMap](https://openweathermap.org
 
 
 Use:
+
 `https://rodrigokamada.github.io/openweathermap/images/` + `filename.png`
+
 (e.g. `https://rodrigokamada.github.io/openweathermap/images/01d_t.png`)
 
 
