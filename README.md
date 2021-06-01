@@ -13,6 +13,9 @@ List of weather condition icons from [OpenWeatherMap](https://openweathermap.org
 ## Icon list
 
 
+Use: `https://rodrigokamada.github.io/openweathermap/images/` + `filename.png` (e.g. `https://rodrigokamada.github.io/openweathermap/images/01d_t.png`)
+
+
 | Day icon | Night icon  | Description |
 | --- | --- | --- |
 | ![01d_t.png](https://rodrigokamada.github.io/openweathermap/images/01d_t.png)<br />Background transparent: `01d_t.png`, `01d_t@2x.png` and `01d_t@4x.png`<br />Background white: `01d_w.png`, `01d_w@2x.png` and `01d_w@4x.png` | ![01n_t.png](https://rodrigokamada.github.io/openweathermap/images/01n_t.png)<br />Background transparent: `01n_t.png`, `01n_t@2x.png` and `01n_t@4x.png`<br />Background white: `01n_w.png`, `01n_w@2x.png` and `01n_w@4x.png` | clear sky |
